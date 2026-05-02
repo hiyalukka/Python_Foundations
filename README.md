@@ -35,5 +35,3 @@ This repository serves as a structured practice ground for Python fundamentals. 
 - This is a personal learning repository — consistency over perfection.
 
 ---
-
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)](https://github.com/your-username)
