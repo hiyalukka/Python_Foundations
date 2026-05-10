@@ -17,8 +17,6 @@
 
 ---
 
-## 🗂️ File Structur
-
 ---
 
 ## 🧠 Purpose
